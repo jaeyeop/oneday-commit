@@ -14,7 +14,7 @@
 
 > Collection - List / Collections.
 > - Collection Interafce에 Method를 추가하게 되면 영향도가 엄청나다.
-> - Collection Framework를 처리할 Utility Class를 제공하기로 하였고 그것이 Collections(List_sort 등 구현)
+> - Collection Framework를 처리할 Utility Class를 제공하기로 하였고 그것이 Collections(List_sort 등 구현
 > - Static Class 구현
 
 
